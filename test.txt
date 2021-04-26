@@ -2,3 +2,4 @@ one line
 two line
 three line
 new Add line(first modify)
+new Add line2(second modify)
